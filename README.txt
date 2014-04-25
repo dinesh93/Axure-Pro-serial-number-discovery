@@ -1,0 +1,1 @@
+Code used to gather AxurePro license for accounting for and verifying validity of license.
